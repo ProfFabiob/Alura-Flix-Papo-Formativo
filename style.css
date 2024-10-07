@@ -6,6 +6,8 @@ section{
     background-color: rgb(139, 89, 186);
     padding-bottom: 80px;
     padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
 header{
     padding-bottom: 20px;
